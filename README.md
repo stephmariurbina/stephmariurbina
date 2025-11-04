@@ -1,6 +1,6 @@
 ## Hola a todos 👋
 
-<a href="#"><img width="50%" height="auto" src=https://media1.tenor.com/m/AuQn89Yw4m0AAAAC/chopper-chopper-one-piece.gif height="175px"/></a>
+<a href="#"><img width="30%" height="auto" src=https://media1.tenor.com/m/AuQn89Yw4m0AAAAC/chopper-chopper-one-piece.gif height="175px"/></a>
 
 <h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Jonah</a> - aka DenverCoder1 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
