@@ -5,7 +5,7 @@
 
 <div align="center">
   
-## About
+## Sobre Mi
 Hola, soy diseñadora web especializada en desarrollo Front-End. Me apasiona crear experiencias digitales únicas y visualmente atractivas, transformando ideas en interfaces modernas, funcionales y centradas en el usuario.
 
 Trabajo con tecnologías como HTML, CSS, JavaScript y frameworks como React, priorizando siempre el diseño responsivo, la accesibilidad y el rendimiento.
@@ -13,9 +13,7 @@ Trabajo con tecnologías como HTML, CSS, JavaScript y frameworks como React, pri
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/Efy_sant/">![Instagram](https://img.shields.io/badge/Efy_sant-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+<a href="https://www.instagram.com/Efy_sant/">![Instagram](https://img.shields.io/badge/Efy_sant-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 -------------------
 
 ### Languages and Tools  
